@@ -1,0 +1,54 @@
+[
+	[
+		{
+			"speaker" : "homer",
+			"dialog" : "Is execution done on Cawdor? Are not Those in commission yet return'd?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "My liege, They are not yet come back. But I have spoke With one that saw him die: who did report",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "That very frankly he confess'd his treasons, Implored your highness' pardon and set forth A deep repentance: nothing in his life"
+		},
+		{
+			"speaker" : "neptune",
+			"dialog" : "Became him like the leaving it; he died As one that had been studied in his death To throw away the dearest thing he owed, As 'twere a careless trifle."
+		}
+	],
+	[
+		{
+			"speaker" : "homer",
+			"dialog" : "There's no art To find the mind's construction in the face: He was a gentleman on whom I built An absolute trust.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "O worthiest cousin! The sin of my ingratitude even now Was heavy on me: thou art so far before That swiftest wing of recompense is slow"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "To overtake thee. Would thou hadst less deserved, That the proportion both of thanks and payment Might have been mine! only I have left to say, More is thy due than more than all can pay."
+		},
+		{
+			"speaker" : "minerva",
+			"dialog" : "The service and the loyalty I owe, In doing it, pays itself. Your highness' part Is to receive our duties; and our duties Are to your throne and state children and servants, Which do but what they should, by doing every thing Safe toward your love and honour.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "homer",
+			"dialog" : "Welcome hither: I have begun to plant thee, and will labour To make thee full of growing. Noble Banquo, That hast no less deserved, nor must be known No less to have done so, let me enfold thee And hold thee to my heart.",
+			"newSpeaker" : "true"
+		}
+	],
+	[
+		{
+			"speaker" : "minerva",
+			"dialog" : "There if I grow, The harvest is your own.",
+			"newSpeaker" : "true"
+		}
+	]
+]
